@@ -5,6 +5,8 @@ Instruksi Praktikum
 3. Buat struktur dasar dari dokumen HTML.
 4. Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya.
 5. Lakukan validasi dokumen css dengan mengakses https://jigsaw.w3.org/css-validator/
+
+
 Langkah-langkah Praktikum
 
 1. Membuat dokumen HTML
